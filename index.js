@@ -54,3 +54,5 @@ if(data[0].age > data[1].age){
 else{
     // console.log(data[1].pseudo + " est plus vieille que " + data[0].pseudo);
 }
+
+//ce cours prepare la gestion de data de javascript
